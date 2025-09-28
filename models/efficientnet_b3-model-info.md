@@ -14,7 +14,7 @@
 ## Model Files
 - *Saved Location:* Google Drive  
 - *Download Link:* (Provide after upload/export — can be added here)  
-- *File Size:* ~180MB (varies by saved format: `.pth` / `.pt`)  
+- *File Size:* 41.4 MB https://drive.google.com/file/d/1pWqmpian7vysizx6pOQpDJN1NcfeimSS/view?usp=drive_link
 
 ## Usage
 This model is trained for **satellite image classification** on the **EuroSAT dataset (RGB, 10 classes, ~27,000 images)**.  
