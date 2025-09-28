@@ -1,0 +1,6 @@
+Dataset: EuroSAT
+Source: https://huggingface.co/datasets/blanchon/EuroSAT_RGB
+Total Images: 27,000
+Classes: 10 (AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, SeaLake)
+Split: 80% Train / 20% Test
+Location: No local stored location downloaded at runtime
