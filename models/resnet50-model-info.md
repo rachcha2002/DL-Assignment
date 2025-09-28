@@ -10,7 +10,7 @@
 - **Accuracy:** 93%+ (EuroSAT dataset)
 - **Training Status:** Completed
 
-## Model Files
+## Model File
 - **Saved Location:** Google Drive 
 - **Download Link:** [ResNet-50 Weights](https://drive.google.com/file/d/1bBr4JDrE-sNQ5bKxM1wcj_jGaKTpUb4h/view?usp=sharing)
 - **File Size:** 283MB
